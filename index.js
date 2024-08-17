@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Listining to Panther Creations",".gg/panthercreations"];
 
 
 let currentIndex = 0;
